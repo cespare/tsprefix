@@ -11,3 +11,9 @@ Sep 15 21:55:21 world
 
 The timestamp format may be changed with the `-format` flag. See the [Go time package
 documentation](http://golang.org/pkg/time/) for details on the format.
+
+## Installation
+
+You need to have Go installed.
+
+    $ go get github.com/cespare/tsprefix
